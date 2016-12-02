@@ -1,0 +1,29 @@
+<div class="form-group row rainforestRepo-panel">
+
+    <div class="dropdown">
+        <a id="dLabel" role="button" data-toggle="dropdown" class="btn btn-primary" data-target="#" href="/page.html">
+            GAME LEVELS <span class="caret"></span>
+        </a>
+        <ul class="dropdown-menu multi-level" role="menu" aria-labelledby="dropdownMenu">
+            <!-- <li ng-repeat="(key,value) in level track by $index">{{key}}</li>-->
+
+            <li ng-repeat="(levelkey,levelvalue) in level track by $index" class="dropdown-submenu">
+                <a tabindex="-1">{{levelkey}}</a>
+
+                <ul class="dropdown-menu">
+                    <li ng-repeat="(sublevelkey,sublevelvalues) in levelvalue track by $index"
+                        class="dropdown-submenu">
+                        <a>{{sublevelkey}}</a>
+                        <ul class="dropdown-menu">
+                            <li ng-repeat="(gamekey,gamevalues) in sublevelvalues track by $index">
+                                <a>{{gamekey}}</a>
+                            </li>
+
+                        </ul>
+                    </li>
+
+                </ul>
+            </li>
+        </ul>
+    </div>
+</div>

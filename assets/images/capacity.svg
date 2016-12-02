@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 80 80" style="enable-background:new 0 0 80 80;" xml:space="preserve">
+<g id="capacity" image-rendering="auto">
+	<g id="Scene_1_f0_2_">
+		<path d="M40,0C29,0,19.5,3.9,11.7,11.8C3.9,19.6,0,29.1,0,40.1s3.9,20.5,11.7,28.3C18.5,75.2,26.4,79,35.5,80h9
+			c9.1-0.9,17-4.8,23.8-11.6C76.1,60.6,80,51.1,80,40.1s-4-20.5-11.7-28.3C60.4,3.9,51,0,40,0"/>
+		<path style="fill:#FFFFFF;" d="M39.9,6.1c-9.3,0-17.3,3.3-24,9.9C9.3,22.6,6,30.7,6,40.1s3.3,17.4,9.9,24.1
+			c6.7,6.6,14.7,9.9,24,10c9.4,0,17.4-3.4,23.9-10c6.7-6.7,10-14.7,10-24.1s-3.3-17.4-10-24.1C57.2,9.4,49.3,6.1,39.9,6.1"/>
+		
+			<radialGradient id="SVGID_1_" cx="-4457.5503" cy="870.1065" r="16.861" gradientTransform="matrix(-1.3333 -4.010025e-03 -5.333334e-03 1.6227 -5923.394 -1400.3591)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#46B954"/>
+		</radialGradient>
+		<path style="fill:url(#SVGID_1_);" d="M51.8,30.4c-3.2-6.9-7.1-13.3-11.6-19.2C34.9,20.5,31.1,26.7,29,30c-2.2,3.2-3.7,8-4.7,14.4
+			S23.9,55.9,26,59.7s5,6.5,8.8,8c4.4,1.8,9.1,1,14-2.5c4.8-3.5,7.3-8.9,7.3-16.4C56.1,42.7,54.6,36.6,51.8,30.4"/>
+	</g>
+</g>
+</svg>
